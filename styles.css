@@ -232,7 +232,6 @@ header {
 
 #highlights {
     position: relative;
-    max-width: 100vh;
 }
 
 #highlights:after, #highlights:before {
